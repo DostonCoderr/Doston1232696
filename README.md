@@ -1,4 +1,4 @@
-<img align="right" alt="Coding"  src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
+<img align="right" alt="Coding" width="800" height="200"  src="https://gifdb.com/images/high/naruto-itachi-uchiha-sharingan-rhv7sffd7ockx41x.gif">
 <h1 align="center">Hi 👋, I'm Doston</h1>
 <h3 align="center">I'am Frontend Developer</h3>
 
